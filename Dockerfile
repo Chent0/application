@@ -14,6 +14,5 @@ RUN uv sync
 
 COPY train.py .
 COPY src ./src
-CMD ["bash", "-c", "./app/run.sh"]
-
 COPY app ./app
+CMD ["bash", "-c", "./app/run.sh"]
