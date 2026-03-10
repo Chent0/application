@@ -6,7 +6,7 @@ spec:
   ingressClassName: nginx
   tls:
   - hosts:
-    - mortst-itanic.lab.sspcloud.fr
+    - morts-titanic.lab.sspcloud.fr
   rules:
   - host: morts-titanic.lab.sspcloud.fr
     http:
