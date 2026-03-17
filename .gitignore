@@ -3,6 +3,7 @@ __pycache__/
 .env
 *.log
 data/
+<<<<<<< HEAD
 model.skops
 /.quarto/
 **/*.quarto_ipynb
@@ -13,3 +14,10 @@ model.skops
 _site/
 
 mlruns/*
+=======
+<<<<<<< HEAD
+model.skops
+=======
+model.skops
+>>>>>>> 7c0177e8a5127ec87a2b014b260f38d4a862ef98
+>>>>>>> bfd9645718cb5b1c594a3f2d9efbadc8eb129dd2
