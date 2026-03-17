@@ -3,4 +3,8 @@ __pycache__/
 .env
 *.log
 data/
+<<<<<<< HEAD
 model.skops
+=======
+model.skops
+>>>>>>> 7c0177e8a5127ec87a2b014b260f38d4a862ef98
